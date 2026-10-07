@@ -1,5 +1,5 @@
 # Retail analysis
-
+# just for fun 
 Small exploratory retail analysis.
 
 From the project root, activate the course environment and open
